@@ -1,0 +1,25 @@
+J. COSTA — SITE INSTITUCIONAL
+
+Arquivos:
+- index.html: página principal
+- sobre.html: página institucional
+- politica-de-privacidade.html: política de privacidade
+- termos-de-uso.html: termos de uso
+- style.css: estilos personalizados
+- assets/: cinco imagens fornecidas pelo cliente
+
+Como visualizar:
+1. Extraia o ZIP.
+2. Mantenha a estrutura de pastas.
+3. Abra index.html no navegador.
+
+Publicação:
+Envie todos os arquivos e a pasta assets para a hospedagem, mantendo a estrutura.
+O Bootstrap, Bootstrap Icons e fontes são carregados por CDN; portanto, o site precisa de conexão com a internet para carregar esses recursos.
+
+Atenção antes de anunciar:
+- Revise os textos jurídicos com profissional habilitado, especialmente a Política de Privacidade e os Termos de Uso.
+- Confirme os dados cadastrais, telefones, e-mail, endereço e serviços efetivamente oferecidos.
+- O formulário de contato usa mailto: e depende do aplicativo de e-mail configurado no dispositivo do visitante; não armazena nem envia dados a um banco de dados.
+- Se instalar Google Analytics, Google Ads tag, remarketing, pixels, cookies ou formulário com armazenamento, atualize a Política de Privacidade e implemente os avisos/consentimentos aplicáveis.
+- Verifique junto ao Google Ads e às regras do setor de seguros se a documentação, autorizações e informações exigidas para anunciar estão completas.
